@@ -2,18 +2,19 @@
 
 ### **🔹 BeautifulSoup Interview Questions**
 
-#### **Basic Questions (Linked Version)**
+#### **Basic Questions**
 
-1. **[What is BeautifulSoup, and how does it work?](basic.md#what-is-beautifulsoup-and-how-does-it-work)**
-2. **[What are the main features of BeautifulSoup?](basic.md#what-are-the-main-features-of-beautifulsoup)**
-3. **[How do you install BeautifulSoup and set up your environment for web scraping?](basic.md#how-do-you-install-beautifulsoup-and-set-up-your-environment-for-web-scraping)**
-4. **[How do you parse HTML content using BeautifulSoup?](basic.md#how-do-you-parse-html-content-using-beautifulsoup)**
-5. **[How do you find and extract elements from an HTML document using BeautifulSoup?](basic.md#how-do-you-find-and-extract-elements-from-an-html-document-using-beautifulsoup)**
-6. **[Explain the difference between `.find()` and `.find_all()` methods in BeautifulSoup.](basic.md#explain-the-difference-between-find-and-find_all-methods-in-beautifulsoup)**
-7. **[How do you extract specific attributes like `href` or `src` from HTML tags?](basic.md#how-do-you-extract-specific-attributes-like-href-or-src-from-html-tags)**
-8. **[How do you navigate through HTML tags using BeautifulSoup?](basic.md#how-do-you-navigate-through-html-tags-using-beautifulsoup)**
-9. **[How do you handle pagination when scraping data from a website using BeautifulSoup?](basic.md#how-do-you-handle-pagination-when-scraping-data-from-a-website-using-beautifulsoup)**
-10. **[How do you clean and process scraped data using BeautifulSoup?](basic.md#how-do-you-clean-and-process-scraped-data-using-beautifulsoup)**
+
+1. **[What is BeautifulSoup, and how does it work?](basic.md#1-what-is-beautifulsoup-and-how-does-it-work)**
+2. **[What are the main features of BeautifulSoup?](basic.md#2-what-are-the-main-features-of-beautifulsoup)**
+3. **[How do you install BeautifulSoup and set up your environment for web scraping?](basic.md#3-how-do-you-install-beautifulsoup-and-set-up-your-environment-for-web-scraping)**
+4. **[How do you parse HTML content using BeautifulSoup?](basic.md#4-how-do-you-parse-html-content-using-beautifulsoup)**
+5. **[How do you find and extract elements from an HTML document using BeautifulSoup?](basic.md#5-how-do-you-find-and-extract-elements-from-an-html-document-using-beautifulsoup)**
+6. **[Explain the difference between `.find()` and `.find_all()` methods in BeautifulSoup.](basic.md#6-explain-the-difference-between-find-and-find_all-methods-in-beautifulsoup)**
+7. **[How do you extract specific attributes like `href` or `src` from HTML tags?](basic.md#7-how-do-you-extract-specific-attributes-like-href-or-src-from-html-tags)**
+8. **[How do you navigate through HTML tags using BeautifulSoup?](basic.md#8-how-do-you-navigate-through-html-tags-using-beautifulsoup)**
+9. **[How do you handle pagination when scraping data from a website using BeautifulSoup?](basic.md#9-how-do-you-handle-pagination-when-scraping-data-from-a-website-using-beautifulsoup)**
+10. **[How do you clean and process scraped data using BeautifulSoup?](basic.md#10-how-do-you-clean-and-process-scraped-data-using-beautifulsoup)**
 
 
 #### **Intermediate Questions**

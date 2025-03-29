@@ -1,17 +1,17 @@
 
 
-### **Basic Questions (Linked Version)**
+### **Basic Questions**
 
-1. **[What is BeautifulSoup, and how does it work?](#what-is-beautifulsoup-and-how-does-it-work)**
-2. **[What are the main features of BeautifulSoup?](#what-are-the-main-features-of-beautifulsoup)**
-3. **[How do you install BeautifulSoup and set up your environment for web scraping?](#how-do-you-install-beautifulsoup-and-set-up-your-environment-for-web-scraping)**
-4. **[How do you parse HTML content using BeautifulSoup?](#how-do-you-parse-html-content-using-beautifulsoup)**
-5. **[How do you find and extract elements from an HTML document using BeautifulSoup?](#how-do-you-find-and-extract-elements-from-an-html-document-using-beautifulsoup)**
-6. **[Explain the difference between `.find()` and `.find_all()` methods in BeautifulSoup.](#explain-the-difference-between-find-and-find_all-methods-in-beautifulsoup)**
-7. **[How do you extract specific attributes like `href` or `src` from HTML tags?](#how-do-you-extract-specific-attributes-like-href-or-src-from-html-tags)**
-8. **[How do you navigate through HTML tags using BeautifulSoup?](#how-do-you-navigate-through-html-tags-using-beautifulsoup)**
-9. **[How do you handle pagination when scraping data from a website using BeautifulSoup?](#how-do-you-handle-pagination-when-scraping-data-from-a-website-using-beautifulsoup)**
-10. **[How do you clean and process scraped data using BeautifulSoup?](#how-do-you-clean-and-process-scraped-data-using-beautifulsoup)**
+1. **[What is BeautifulSoup, and how does it work?](#1-what-is-beautifulsoup-and-how-does-it-work)**
+2. **[What are the main features of BeautifulSoup?](#2-what-are-the-main-features-of-beautifulsoup)**
+3. **[How do you install BeautifulSoup and set up your environment for web scraping?](#3-how-do-you-install-beautifulsoup-and-set-up-your-environment-for-web-scraping)**
+4. **[How do you parse HTML content using BeautifulSoup?](#4-how-do-you-parse-html-content-using-beautifulsoup)**
+5. **[How do you find and extract elements from an HTML document using BeautifulSoup?](#5-how-do-you-find-and-extract-elements-from-an-html-document-using-beautifulsoup)**
+6. **[Explain the difference between `.find()` and `.find_all()` methods in BeautifulSoup.](#6-explain-the-difference-between-find-and-find_all-methods-in-beautifulsoup)**
+7. **[How do you extract specific attributes like `href` or `src` from HTML tags?](#7-how-do-you-extract-specific-attributes-like-href-or-src-from-html-tags)**
+8. **[How do you navigate through HTML tags using BeautifulSoup?](#8-how-do-you-navigate-through-html-tags-using-beautifulsoup)**
+9. **[How do you handle pagination when scraping data from a website using BeautifulSoup?](#9-how-do-you-handle-pagination-when-scraping-data-from-a-website-using-beautifulsoup)**
+10. **[How do you clean and process scraped data using BeautifulSoup?](#10-how-do-you-clean-and-process-scraped-data-using-beautifulsoup)**
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-### **1. What is BeautifulSoup, and how does it work?**  
+#### **1. What is BeautifulSoup, and how does it work?**  
 `BeautifulSoup` is a Python library used for web scraping by extracting data from static HTML and XML pages. It **parses** the webpage's source code, allowing users to navigate and search the document using Pythonic methods.  
 
 **How it works:**  
@@ -29,7 +29,7 @@
 
 ---
 
-### **2. What are the main features of BeautifulSoup?**  
+#### **2. What are the main features of BeautifulSoup?**  
 The key features of BeautifulSoup are:  
 ✅ **Lightweight** – It requires minimal code and dependencies.  
 ✅ **Easy-to-use** – Simple syntax for searching and extracting data.  
@@ -39,7 +39,7 @@ The key features of BeautifulSoup are:
 
 ---
 
-### **3. How do you install BeautifulSoup and set up your environment for web scraping?**  
+#### **3. How do you install BeautifulSoup and set up your environment for web scraping?**  
 
 #### **Step 1: Create a virtual environment (optional but recommended)**  
 ```bash
