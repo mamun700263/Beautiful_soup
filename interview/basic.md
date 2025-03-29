@@ -1,6 +1,6 @@
 
 
-### **Basic Questions**
+# **Basic Questions**
 
 1. **[What is BeautifulSoup, and how does it work?](#1-what-is-beautifulsoup-and-how-does-it-work)**
 2. **[What are the main features of BeautifulSoup?](#2-what-are-the-main-features-of-beautifulsoup)**
@@ -19,7 +19,7 @@
 
 ---
 
-#### **1. What is BeautifulSoup, and how does it work?**  
+### **1. What is BeautifulSoup, and how does it work?**  
 `BeautifulSoup` is a Python library used for web scraping by extracting data from static HTML and XML pages. It **parses** the webpage's source code, allowing users to navigate and search the document using Pythonic methods.  
 
 **How it works:**  
@@ -29,7 +29,7 @@
 
 ---
 
-#### **2. What are the main features of BeautifulSoup?**  
+### **2. What are the main features of BeautifulSoup?**  
 The key features of BeautifulSoup are:  
 ✅ **Lightweight** – It requires minimal code and dependencies.  
 ✅ **Easy-to-use** – Simple syntax for searching and extracting data.  
@@ -39,7 +39,7 @@ The key features of BeautifulSoup are:
 
 ---
 
-#### **3. How do you install BeautifulSoup and set up your environment for web scraping?**  
+### **3. How do you install BeautifulSoup and set up your environment for web scraping?**  
 
 #### **Step 1: Create a virtual environment (optional but recommended)**  
 ```bash
@@ -58,15 +58,13 @@ pip install beautifulsoup4 requests lxml
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://example.com"
+url = "books.toscrape.com"
 response = requests.get(url)
 soup = BeautifulSoup(response.text, "html.parser")
 
 print(soup.title.text)  # Extracts the page title
 ```
 
-
-You're on the right track, but your explanations need more clarity and structure. Here’s an improved version:
 
 ---
 
