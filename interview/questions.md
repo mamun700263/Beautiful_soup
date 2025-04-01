@@ -19,19 +19,19 @@
 
 #### **Intermediate Questions**
 
-11. **What are some commonly used methods in BeautifulSoup for traversing the DOM (Document Object Model)?**
-12. **Explain how CSS Selectors work in BeautifulSoup.**
-13. **What are the different ways to search for elements in BeautifulSoup?**
-14. **How do you use the `.select()` method in BeautifulSoup, and how does it differ from `.find()` and `.find_all()`?**
-15. **How do you deal with nested tags and extract data from them?**
-16. **How would you handle JavaScript-rendered content (dynamic content) using BeautifulSoup?**
-17. **Can you combine BeautifulSoup with other libraries like Requests to scrape websites?**
-18. **What is the importance of `lxml` parser, and how is it used with BeautifulSoup?**
-19. **How do you handle websites with a lot of broken HTML using BeautifulSoup?**
-20. **What is the role of the `requests` library when scraping websites with BeautifulSoup?**
-21. **Explain how to handle and extract data from tables using BeautifulSoup.**
-22. **How would you use BeautifulSoup to scrape a form from a webpage?**
-23. **Can BeautifulSoup be used to scrape data from JSON or XML files? How would you handle it?**
+11. **[What are some commonly used methods in BeautifulSoup for traversing the DOM (Document Object Model)?](Intermediate.md#11-what-are-some-commonly-used-methods-in-beautifulsoup-for-traversing-the-dom-document-object-model)**  
+12. **[Explain how CSS Selectors work in BeautifulSoup.](Intermediate.md#12-explain-how-css-selectors-work-in-beautifulsoup)**  
+13. **[What are the different ways to search for elements in BeautifulSoup?](Intermediate.md#13-what-are-the-different-ways-to-search-for-elements-in-beautifulsoup)**  
+14. **[How do you use the `.select()` method in BeautifulSoup, and how does it differ from `.find()` and `.find_all()`?](Intermediate.md#14-how-do-you-use-the-select-method-in-beautifulsoup-and-how-does-it-differ-from-find-and-find_all)**  
+15. **[How do you deal with nested tags and extract data from them?](Intermediate.md#15-how-do-you-deal-with-nested-tags-and-extract-data-from-them)**  
+16. **[How would you handle JavaScript-rendered content (dynamic content) using BeautifulSoup?](Intermediate.md#16-how-would-you-handle-javascript-rendered-content-dynamic-content-using-beautifulsoup)**  
+17. **[Can you combine BeautifulSoup with other libraries like Requests to scrape websites?](Intermediate.md#17-can-you-combine-beautifulsoup-with-other-libraries-like-requests-to-scrape-websites)**  
+18. **[What is the importance of `lxml` parser, and how is it used with BeautifulSoup?](Intermediate.md#18-what-is-the-importance-of-lxml-parser-and-how-is-it-used-with-beautifulsoup)**  
+19. **[How do you handle websites with a lot of broken HTML using BeautifulSoup?](Intermediate.md#19-how-do-you-handle-websites-with-a-lot-of-broken-html-using-beautifulsoup)**  
+20. **[What is the role of the `requests` library when scraping websites with BeautifulSoup?](Intermediate.md#20-what-is-the-role-of-the-requests-library-when-scraping-websites-with-beautifulsoup)**  
+21. **[Explain how to handle and extract data from tables using BeautifulSoup.](Intermediate.md#21-explain-how-to-handle-and-extract-data-from-tables-using-beautifulsoup)**  
+22. **[How would you use BeautifulSoup to scrape a form from a webpage?](Intermediate.md#22-how-would-you-use-beautifulsoup-to-scrape-a-form-from-a-webpage)**  
+23. **[Can BeautifulSoup be used to scrape data from JSON or XML files? How would you handle it?](Intermediate.md#23-can-beautifulsoup-be-used-to-scrape-data-from-json-or-xml-files-how-would-you-handle-it)**  
 
 #### **Advanced Questions**
 

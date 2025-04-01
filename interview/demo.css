@@ -1,0 +1,115 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Paragraphs */
+p {
+    line-height: 1.6;
+    margin: 10px 0;
+    padding: 0 15px;
+}
+
+/* Lists */
+ul, ol {
+    padding-left: 20px;
+}
+li {
+    margin: 5px 0;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background: #fff;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background: #333;
+    color: #fff;
+}
+
+/* Forms */
+form {
+    max-width: 500px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+button {
+    background: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background: #555;
+}
+
+/* Images & Media */
+img {
+    max-width: 100%;
+    display: block;
+    margin: 10px auto;
+}
+video, iframe {
+    width: 100%;
+    display: block;
+    margin: 10px auto;
+}
+
+/* Links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Divs and Sections */
+.container {
+    max-width: 1100px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #222;
+    color: white;
+    margin-top: 20px;
+}
