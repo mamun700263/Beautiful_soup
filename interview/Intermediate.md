@@ -25,7 +25,7 @@ Check this before you read the questions ,  [This ](intermediate.ipynb) Will hel
 
 ### **11. What are some commonly used methods in BeautifulSoup for traversing the DOM (Document Object Model)?**  
 
-Code: [11.py](intermediate_files/11.py)
+[Code : **11**](intermediate_files/11.ipynb)
 
 
 BeautifulSoup provides several methods to navigate and traverse the DOM efficiently:  
@@ -76,8 +76,6 @@ BeautifulSoup provides several methods to navigate and traverse the DOM efficien
 
 ### **Best Practice**
 For efficient traversal, **use `.select()` for complex queries**, while **`.find()` & `.find_all()`** work best for structured searches. 🚀
-
-That explanation is good, but it's a bit vague. You should definitely add examples to make it clearer. Here's a refined version with examples:  
 
 ---
 
